@@ -1,0 +1,8 @@
+[submodule "share/docker-ubuntu"]
+	path = share/docker-ubuntu
+	url = git@github.com:johna1203/docker-ubuntu.git
+
+
+[submodule "share/docker-nodejs"]
+	path = share/docker-nodejs
+	url = git@github.com:johna1203/docker-nodejs.git
